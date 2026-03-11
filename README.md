@@ -69,7 +69,7 @@ Because of the compatibility issues of `nodemailer` package, the email integrati
 3. Optionally, you can set other config values to customize how the notification emails look like.
 4. In the configuration page, click `Send test email` button to make sure the integration works well.
 5. In your email provider, make sure the incoming emails aren't classified as spam.
-
+  
 ---
 
 If you encounter any issues, or have any questions for this deployment, you can send an email to tao@vanjs.org.
